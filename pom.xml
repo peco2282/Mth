@@ -41,13 +41,13 @@
       <groupId>org.jetbrains</groupId>
       <artifactId>annotations</artifactId>
       <version>24.0.1</version>
-      <scope>runtime</scope>
+      <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>org.apache.commons</groupId>
       <artifactId>commons-lang3</artifactId>
       <version>3.13.0</version>
-      <scope>runtime</scope>
+      <scope>compile</scope>
     </dependency>
   </dependencies>
 </project>
